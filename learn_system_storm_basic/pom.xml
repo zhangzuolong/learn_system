@@ -11,7 +11,7 @@
 
 	<groupId>learn.system.storm.basic</groupId>
 	<artifactId>learn_system_storm_basic</artifactId>
-	<description>storm基础知识</description>
+	<description>storm基础知识练习</description>
 
 	<name>learn_system_storm_basic</name>
 	<url>http://maven.apache.org</url>

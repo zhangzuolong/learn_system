@@ -24,5 +24,6 @@
 	</dependencies>
   <modules>
     <module>learn_system_storm_basic</module>
+    <module>learn_system_tech</module>
   </modules>
 </project>
